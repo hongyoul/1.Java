@@ -1,0 +1,22 @@
+package main;
+
+public class Ex3 {
+
+	public static void main(String[] args) {
+	
+		int result1 = 10 + 2; // 12
+		int result2 = 10 - 2; // 8
+	    int result3 = 10 * 2; // 20
+	    int result4 = 10 / 2; // 5
+	    int result5 = 10 % 2; // 0
+				
+	    System.out.println(result1);
+		System.out.println(result2);
+		System.out.println(result3);
+		System.out.println(result4);
+		System.out.println(result5);
+				
+
+	}
+
+}
